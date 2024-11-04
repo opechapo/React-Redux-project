@@ -22,7 +22,6 @@ const Todo = () => {
     setEditId(null)
   }
 
-
   console.log(todos)
 
   return (
